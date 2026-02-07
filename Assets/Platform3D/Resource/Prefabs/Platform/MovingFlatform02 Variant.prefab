@@ -159,7 +159,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6396940686805378942, guid: 2bf6ecf8aa10e8f468a0179d55d8f866, type: 3}
       propertyPath: m_Name
-      value: MovingFlatform01 Variant
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
